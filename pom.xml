@@ -8,7 +8,7 @@
   <artifactId>manager-service</artifactId>
   
   <dependencies>
-  		<!--service依赖dao  -->
+  		<!--service依赖dao层  -->
 		<dependency>
 			<groupId>com.chilema.item</groupId>
 			<artifactId>manager-dao</artifactId>
