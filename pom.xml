@@ -2,16 +2,16 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.chilema.item</groupId>
-    <artifactId>chilema.manager</artifactId>
+    <artifactId>chilema-manager</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>manager-service</artifactId>
+  <artifactId>chilema-manager-service</artifactId>
   
   <dependencies>
   		<!--service依赖dao层  -->
 		<dependency>
 			<groupId>com.chilema.item</groupId>
-			<artifactId>manager-dao</artifactId>
+			<artifactId>chilema-manager-dao</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		
